@@ -14,5 +14,5 @@ func main() {
     fmt.Printf("Factorial(5) = %d\n", math.Factorial(5))
     fmt.Printf("Factorial(0) = %d\n", math.Factorial(0))
     
-    fmt.Println("\n✅ Все функции работают корректно!")
+    fmt.Println(" Все функции работают корректно!")
 }
