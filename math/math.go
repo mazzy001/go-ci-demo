@@ -2,7 +2,7 @@ package math
 
 // Add складывает два числа.
 func Add(a, b int) int {
-    return a + b
+    return a - b
 }
 
 // IsEven проверяет, является ли число четным.
